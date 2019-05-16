@@ -1,7 +1,7 @@
-Admin Tunnukset
-KT: ADMIN
+Admin Tunnukset<br>
+KT: ADMIN<br>
 SS: password
 
-User Tunnukset:
-KT: USER
+User Tunnukset:<br>
+KT: USER<br>
 SS: password
